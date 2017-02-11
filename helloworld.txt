@@ -2,4 +2,8 @@ This is the new file that has to be pushed through.
 We are checking the edit for the files as well.
 The third data has been inserted.
 Not seems to be working.
+<<<<<<< HEAD
 The fifth commit
+=======
+Batman
+>>>>>>> e84859fa8a3717b4339c03b785eb3ef21702348a
